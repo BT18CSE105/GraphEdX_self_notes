@@ -4,7 +4,7 @@ Complete information about which datasets the pretrained models are trained on.
 
 ---
 
-## Overview
+## Overview:
 
 GraphEdX has **separate pretrained models for EACH dataset**.
 
